@@ -1,0 +1,44 @@
+
+:root
+{
+    font-family: cursive;
+    
+}
+body{
+    margin: 0;
+    font-size: large;
+}
+#top
+{
+    text-align: center;
+    padding: 2rem;
+}
+
+textarea
+{
+    box-sizing: border-box;
+    display: block;
+   min-height: 20vh;
+   width: 60%;
+   padding: 1rem;
+   margin-right:auto;
+   margin-left: auto;
+   margin-top: 2rem;
+   border: 1px solid black;
+   margin-bottom: 2rem;
+   border-radius: 5px;
+}
+#button
+{
+    text-align: center;
+    margin-top: 2rem;
+}
+#btn
+{
+    padding: 1rem 2rem;
+    text-align: center;
+    background-color: black;
+    color: whitesmoke;
+    border: none;
+    border-radius: 20px;
+}
